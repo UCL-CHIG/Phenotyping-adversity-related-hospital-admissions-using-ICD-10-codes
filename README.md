@@ -1,4 +1,4 @@
-Phenotyping-adversity-related-hospital-admissions-using-ICD-10-codes
+# Phenotyping-adversity-related-hospital-admissions-using-ICD-10-codes
 This repository covers ICD-10 codes from 3 mutually non-exclusive code lists which can be used to identify admissions related to substance misuse, mental health problems, or exposure to violence in hospital records in England. We also include basic R code which we used to identify women with a history of adversity-related hospital admissions prior to birth using a three-year look-back window in the Hospital Episode Statistics data.
 
 These codes come from several published ICD-10 code lists:
