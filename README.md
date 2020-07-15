@@ -55,9 +55,10 @@ Z91.5 (we also included Y87.0 – sequelae of intentional self-harm)
 
 *For further details see: [Herbert A, Gilbert R, González-Izquierdo A, et al. Violence, self-harm and drug or alcohol misuse in adolescents admitted to hospitals in england for injury: A retrospective cohort study. BMJ Open 2015;5.](http://dx.doi.org/10.1136/bmjopen-2014-006079)*
 
+## 
 
 These code lists were informed by searches undertaken by Shabeer Syed as part of separate piece of work (link when published)
 
 
-Further details can be found here: \
-(link to our paper when published)
+Citation: \
+(include citation and link to our paper when published)
