@@ -1,6 +1,11 @@
 # Phenotyping-adversity-related-hospital-admissions-using-ICD-10-codes
 This repository covers ICD-10 codes from 3 mutually non-exclusive code lists which can be used to identify admissions related to substance misuse, mental health problems, or exposure to violence in hospital records in England. We also include basic R code which we used to identify women with a history of adversity-related hospital admissions prior to birth using a three-year look-back window in the Hospital Episode Statistics data.
 
+The codes were used in the following piece of work:
+Pearson, R., Jay, M. A., Wijlaars, L., De Stavola, B., Syed, S., Bedston, S., Gilbert, R. (2020). Association between health indicators of maternal adversity and the rate of infant entry to local authority care in England: a longitudinal ecological study. BMJ Open https://doi.org/10.1136/bmjopen-2019-036564
+
+# 
+
 These codes come from several published ICD-10 code lists:
 
 ## 1) Substance misuse:
@@ -57,8 +62,7 @@ Z91.5 (we also included Y87.0 – sequelae of intentional self-harm)
 
 ## 
 
-These code lists were informed by searches undertaken by Shabeer Syed as part of separate piece of work (link when published)
+These code lists were informed by searches undertaken by Shabeer Syed as part of separate piece of work
 
+*For further details see: [Syed S, Ashwick R, Schlosser M, et al. Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysisArchives of Disease in Childhood 2021;106:44-53.](http://dx.doi.org/10.1136/archdischild-2020-319027)*
 
-Citation: \
-(include citation and link to our paper when published)
